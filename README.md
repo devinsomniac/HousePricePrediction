@@ -133,3 +133,20 @@ The target variable is the **median house value** (house price) for each block.
     - Install the required libraries:
 3. **Run the Notebook:**
     - Open the Jupyter Notebook (Housing.ipynb) and run the cells to see the full workflow, from data preprocessing to model evaluation and tuning.
+
+## A glance on the plots
+
+**Dataset**
+![Dataset](./Housing/screenshots/Dataset.png)
+
+**Correlation 1**
+![Correlation](./Housing/screenshots/correlation2.png)
+
+**Correlation 2**
+![Correlation 2](./Housing/screenshots/correlation.png)
+
+**Random Forest(Not Tuned)**
+![Random Forest(Not Tuned)](./Housing/screenshots/RF.png)
+
+**Random Forest(Tuned)**
+![Random Forest (Tuned)](./Housing/screenshots/Tuned_RF.png)
