@@ -130,6 +130,6 @@ The target variable is the **median house value** (house price) for each block.
    ```
 2. **Install Dependencies**:
     - Ensure you have Python 3.7+ installed.
-    -Install the required libraries:
+    - Install the required libraries:
 3. **Run the Notebook:**
-    -Open the Jupyter Notebook (Housing.ipynb) and run the cells to see the full workflow, from data preprocessing to model evaluation and tuning.
+    - Open the Jupyter Notebook (Housing.ipynb) and run the cells to see the full workflow, from data preprocessing to model evaluation and tuning.
